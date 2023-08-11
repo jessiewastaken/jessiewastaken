@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jessiewastaken
-- 👀 I’m interested in web development and python programming.
-- 🌱 I’m currently learning Level 3 Computer Science
-- 💞️ I’m looking to collaborate on nothing as of now, just looking to finish education first.
-- 📫 How to reach me: email: j.miall@icloud.com
+- 👀 I’m interested in software development and HTML.
+- 🌱 I have my Level 3 Foundation Diploma in Computer Science, and am also a fully qualified IT Tech.
+- 💞️ I’m looking to collaborate on no projects as of now, still learning new languages and improving upon existing knowledge.
+- 📫 How to reach me: email: jake.miall@outlook.com discord: itsjessie224
 
 <!---
 jessiewastaken/jessiewastaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
